@@ -70,5 +70,5 @@ EventCenter’s key selling points include:
 
 What sets EventCenter apart and makes it cool is its ability to cater to the diverse needs of event-goers and vendors. It combines the convenience of event discovery, ticket purchase, and vendor management in a single, user-friendly platform. EventCenter also promotes interaction within the event community, enabling users to share their experiences, recommendations, and reviews. This social aspect makes it not just a utility app but a vibrant platform for event enthusiasts to connect and engage.
 
-<img width="677" alt="EventCenter Use Case" src= "https://github.com/MAKDARPA/EventCenter/blob/main/EventCenter%20UseCase.png">
+<img width="677" alt="EventCenter Use Case" src= "https://github.com/MAKDARPA/EventCenter/blob/main/New_eventcenter_usecase.png">
 
