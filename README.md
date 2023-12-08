@@ -1,5 +1,8 @@
 # EventCenter- Your Ultimate Event Experience
 
+## EventCenter_Software_Requirements_Specification
+[
+](https://github.com/MAKDARPA/EventCenter/blob/main/EventCenter_Software_Requirements_Specification(SRS)_1.pdf)
 ## Team Members
 
 - [Muhammad A Khan]
